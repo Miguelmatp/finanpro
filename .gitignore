@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.DS_Store
+
+# Variables de entorno
+.env
+.env.*
+!.env.example
+
+# Archivos locales
+*.local
+
+# Logs
+*.log
